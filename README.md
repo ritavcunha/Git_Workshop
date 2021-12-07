@@ -1,7 +1,7 @@
 
 # Git Workshop
 
-
+This repo belongs to Rita Cunha
 
 ![Image of Project](images/cheat_sheet.png)
 
